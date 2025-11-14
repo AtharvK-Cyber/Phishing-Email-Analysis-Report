@@ -1,4 +1,4 @@
-# Phishing-Email-Analysis-Report
+# Phishing Email Analysis Report
 Overview
 This report analyzes a suspicious email claiming to be from GeekSquad regarding a $348.81 renewal of “Total AV Ultimate Antivirus.” The email attempts to create urgency and push the victim to call a fake support number. Based on multiple indicators, this is a phishing / scam email designed to trick the recipient into calling scammers.<br>
 <img width="1488" height="696" alt="Capture" src="https://github.com/user-attachments/assets/d1189a29-1085-4797-b4fc-0c1b4b6ceb03" /> <br><br>
